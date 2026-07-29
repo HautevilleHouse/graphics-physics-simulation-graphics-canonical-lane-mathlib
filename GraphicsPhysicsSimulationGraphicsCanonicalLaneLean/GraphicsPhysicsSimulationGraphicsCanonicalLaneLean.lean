@@ -1,0 +1,9 @@
+import GraphicsPhysicsSimulationGraphicsCanonicalLaneLean.AdmissibleClass
+
+namespace HautevilleHouse
+namespace GraphicsPhysicsSimulationGraphicsCanonicalLaneLean
+
+-- Root module: imports all domain-specific files
+
+end GraphicsPhysicsSimulationGraphicsCanonicalLaneLean
+end HautevilleHouse
